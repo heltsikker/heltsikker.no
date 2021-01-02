@@ -1,30 +1,32 @@
 ---
 layout: page
-title: About
+title: Om oss
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Helt Sikker er en studentorganisasjon ved Universitetet i Bergen. Vår målsetning er å tilby studenter en arena hvor man kan lære mer om informasjonssikkerhet, samtidig som vi bidrar til å bygge et miljø for sikkerhetsinteresserte studenter i Bergen.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Helt Sikker ble originalt stiftet av studenter som tilhørte det første kullet av UiBs bachelorprogram i datasikkerhet. Et av våre mål er å komplementere UiBs mer teoretiske tilnærming til sikkerhet ved å arrangere workshops, foredrag, CTF-er, konkurranser og mer. 
 
-There are currently two themes built on Poole:
+[Finn oss på facebook!](https://www.facebook.com/groups/heltsikker)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Styret kan nås på epost: <styret@heltsikker.no>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Styrets medlemmer:
 
-## Setup
+* [Joakim Algrøy](https://www.linkedin.com/in/joakim-algroy/) (leder)
+* [Maren Hestad Aleksandersen](https://www.linkedin.com/in/maren-hestad-aleksandersen-900521182/) (nestleder)
+* [Jacob Hagan](https://www.linkedin.com/in/jacob-hagan-2817a3140/)
+* [Mathias Iversen](https://www.linkedin.com/in/mathiasni/)
+* [Alexander Bergenholtz](http://uwu.dk/about/)
+* [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
+* Arne Natskår
+* [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
 
-Some fun facts about the setup of this project include:
+Tidligere medlemmer:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Erik Vetle Larsen](http://linkedin.com/in/erikvetlelarsen/)
+* [Kenneth Fossen](http://linkedin.com/in/kenneth-fossen/)
+* [Johan Schultz Åsbakk](http://linkedin.com/in/johan-schultz-%C3%A5sbakk-685468169/)
+* [Carl August Gjørsvik](http://linkedin.com/in/carl-august-gj%C3%B8rsvik-626b03152/)
+* [Kaja Dey](http://linkedin.com/in/kaja-alexandra-dey-086b42126/)
+* [Amund Lindstøl](http://linkedin.com/in/amund-lindst%C3%B8l-1857b5162/)
