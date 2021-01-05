@@ -12,7 +12,7 @@ title:            Helt Sikker
 tagline:          'Studentorganisasjon for datasikkerhet i Bergen'
 description:      ''
 url:              https://heltsikker.no
-baseurl:          /
+baseurl:          '/'
 
 paginate:         5
 
