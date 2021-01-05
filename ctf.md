@@ -75,5 +75,3 @@ HTB er hakket mer avansert enn Over The Wire, så den er gjerne grei å ta fatt 
 Følg også med på om det arrangeres lokale CTF’er nær deg! Vi i Helt Sikker arrangerer jevnlig CTF’er for studentene våre, og det finnes flere andre aktører som også har lokale eller online CTF’er. En av de større i Norge er TGHack, som er en CTF som arrangeres hvert år på datasamlingen The Gathering.
 
 Ta gjerne kontakt om noe er feil, eller om du har forslag til andre CTF-er som burde være på lista.
-
-Originalt skrevet av [Erik Vetle Larsen](https://www.linkedin.com/in/erikvetlelarsen/) og [Martin Tverråen](https://www.linkedin.com/in/erikvetlelarsen/).
