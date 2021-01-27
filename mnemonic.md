@@ -17,4 +17,4 @@ De siste seks årene har vi ligget i toppen av kåringen av Norges og Europas be
 
 mnemonic er alltid på utkikk etter kloke hoder med en lidenskap for informasjonssikkerhet. Ledige stillinger vil på sikt bli publisert her, men vil alltid være oppdatert på våre nettsider: [https://www.mnemonic.no/no/karriere/](https://www.mnemonic.no/no/karriere/)
 
-Vi tar alltid i mot åpne søknader. Ta gjerne kontakt om du skulle ha noen spørsmål: <rekruttering@mnemonic.no>
+Vi tar alltid i mot åpne søknader. Ta gjerne kontakt med Martin B. Nordby på <rekruttering@mnemonic.no>
