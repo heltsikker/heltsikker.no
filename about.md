@@ -19,11 +19,11 @@ Styrets medlemmer:
 * [Mathias Iversen](https://www.linkedin.com/in/mathiasni/)
 * [Alexander Bergenholtz](http://uwu.dk/about/)
 * [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
-* Arne Natskår
-* [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
 
 Tidligere medlemmer:
 
+* Arne Natskår
+* [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
 * [Erik Vetle Larsen](http://linkedin.com/in/erikvetlelarsen/)
 * [Kenneth Fossen](http://linkedin.com/in/kenneth-fossen/)
 * [Johan Schultz Åsbakk](http://linkedin.com/in/johan-schultz-%C3%A5sbakk-685468169/)
