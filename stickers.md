@@ -4,7 +4,7 @@ title: Stickers
 ---
 
 
-Vi har låst inn noen stickers i dette skapet på bachelor-lesesalen på høytek, klarer du finne koden får å åpne skapet?
+Vi har låst inn noen stickers i dette skapet på bachelor-lesesalen på høytek, klarer du finne koden for å åpne skapet?
 
 <img src="/public/skap.jpg" style="height: 500px;">
 
