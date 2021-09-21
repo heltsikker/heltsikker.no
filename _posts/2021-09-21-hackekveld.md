@@ -17,3 +17,5 @@ Vi serverer mat og litt drikke 🙂
 Dette blir mest en kveld for å lære, men vi skal få til en liten konkurranse i tillegg!
 
 Påmelding: [https://forms.gle/L64j61FfbDp5Dhwh8](https://forms.gle/L64j61FfbDp5Dhwh8)
+
+Facebook event: [https://fb.me/e/1cvBO7MRa](https://fb.me/e/1cvBO7MRa)
