@@ -13,18 +13,18 @@ Styret kan nås på epost: <styret@heltsikker.no>
 
 Styrets medlemmer:
 
-* [Joakim Algrøy](https://www.linkedin.com/in/joakim-algroy/) (leder)
-* [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/) (nestleder)
-* [Mathias Iversen](https://www.linkedin.com/in/mathiasni/)
-* [Alexander Bergenholtz](http://uwu.dk/about/)
-* [Skage Lysgaard](https://www.linkedin.com/in/skage-lysgaard-9044a3175/)
+* [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/) (leder)
+* [Skage Lysgaard](https://www.linkedin.com/in/skage-lysgaard-9044a3175/) (nestleder)
 * Emelijon Amalanayagam
 * Pål Hoven Bentsen
-* [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/)
 * Safiya Mahamood
 
 Tidligere medlemmer:
 
+* [Joakim Algrøy](https://www.linkedin.com/in/joakim-algroy/)
+* [Alexander Bergenholtz](http://uwu.dk/about/)
+* [Mathias Iversen](https://www.linkedin.com/in/mathiasni/)
+* [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
 * [Jacob Hagan](https://www.linkedin.com/in/jacob-hagan-2817a3140/)
 * [Maren Hestad Aleksandersen](https://www.linkedin.com/in/maren-hestad-aleksandersen-900521182/)
 * Arne Natskår
