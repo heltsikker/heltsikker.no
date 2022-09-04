@@ -15,9 +15,7 @@ Styrets medlemmer:
 
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/) (leder)
 * [Skage Lysgaard](https://www.linkedin.com/in/skage-lysgaard-9044a3175/) (nestleder)
-* Emelijon Amalanayagam
-* Pål Hoven Bentsen
-* Safiya Mahamood
+
 
 Tidligere medlemmer:
 
@@ -35,3 +33,5 @@ Tidligere medlemmer:
 * [Carl August Gjørsvik](http://linkedin.com/in/carl-august-gj%C3%B8rsvik-626b03152/)
 * [Kaja Dey](http://linkedin.com/in/kaja-alexandra-dey-086b42126/)
 * [Amund Lindstøl](http://linkedin.com/in/amund-lindst%C3%B8l-1857b5162/)
+* * Emelijon Amalanayagam
+* Pål Hoven Bentsen
