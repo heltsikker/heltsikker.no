@@ -18,9 +18,13 @@ vekst
 
 ### HVILKET INTERNSHIP PASSER FOR DEG?
 
-mInternship: Sikkerhetskonsulent i vår [TRS-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-security-consultant/)
-mInternship: Management Consultant i vår [GRC-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-managementconsultant/]
-mInternship: Prosjektoppgave i vår avdeling for infrastruktursikkerhet [(MSI)](https://www.mnemonic.io/careers/open-positions/minternship-infrastructure-securityproject-assignment/]
-mInternship: Prosjektoppgave i vår avdeling for [Managed Security Services (MSS)](https://www.mnemonic.io/careers/open-positions/minternship-project-assignmentmss/)
-mInternship: Utvikler i vår [utviklingsavdeling (frontend, backend, tooling, UX)](https://www.mnemonic.io/careers/open-positions/minternship-developer/)
+[mInternship: Sikkerhetskonsulent i vår TRS-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-security-consultant/)
+
+[mInternship: Management Consultant i vår GRC-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-managementconsultant/)
+
+[mInternship: Prosjektoppgave i vår avdeling for infrastruktursikkerhet (MSI)](https://www.mnemonic.io/careers/open-positions/minternship-infrastructure-securityproject-assignment/)
+
+[mInternship: Prosjektoppgave i vår avdeling for Managed Security Services (MSS)](https://www.mnemonic.io/careers/open-positions/minternship-project-assignmentmss/)
+
+[mInternship: Utvikler i vår utviklingsavdeling (frontend, backend, tooling, UX)](https://www.mnemonic.io/careers/open-positions/minternship-developer/)
 
