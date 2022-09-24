@@ -20,11 +20,16 @@ vekst
 
 [mInternship: Sikkerhetskonsulent i vår TRS-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-security-consultant/)
 
-[mInternship: Management Consultant i vår GRC-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-managementconsultant/)
+[mInternship: Management Consultant i vår GRC-avdeling](https://www.mnemonic.io/careers/open-positions/minternship-management-consultant/)
 
-[mInternship: Prosjektoppgave i vår avdeling for infrastruktursikkerhet (MSI)](https://www.mnemonic.io/careers/open-positions/minternship-infrastructure-securityproject-assignment/)
+[mInternship: Prosjektoppgave i vår avdeling for infrastruktursikkerhet (MSI)](https://www.mnemonic.io/careers/open-positions/minternship-infrastructure-security-project-assignment/)
 
-[mInternship: Prosjektoppgave i vår avdeling for Managed Security Services (MSS)](https://www.mnemonic.io/careers/open-positions/minternship-project-assignmentmss/)
+[mInternship: Prosjektoppgave i vår avdeling for Managed Security Services (MSS)](https://www.mnemonic.io/careers/open-positions/minternship-project-assignment-mss/)
 
 [mInternship: Utvikler i vår utviklingsavdeling (frontend, backend, tooling, UX)](https://www.mnemonic.io/careers/open-positions/minternship-developer/)
 
+Søknadsfrist: <strong>13.oktober 2022 kl.23.59</strong>
+
+Send søknadsbrev, CV og karakterutskrift
+til e-postadressen:<br />
+[rekruttering-web@mnemonic.io](mailto:rekruttering-web@mnemonic.io)
