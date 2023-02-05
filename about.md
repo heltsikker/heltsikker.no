@@ -25,7 +25,7 @@ Tidligere medlemmer:
 * [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
 * [Jacob Hagan](https://www.linkedin.com/in/jacob-hagan-2817a3140/)
 * [Maren Hestad Aleksandersen](https://www.linkedin.com/in/maren-hestad-aleksandersen-900521182/)
-* Arne Natskår
+* [Arne Natskår](www.linkedin.com/in/arne-natskår)
 * [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
 * [Erik Vetle Larsen](http://linkedin.com/in/erikvetlelarsen/)
 * [Kenneth Fossen](http://linkedin.com/in/kenneth-fossen/)
