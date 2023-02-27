@@ -15,6 +15,11 @@ Styrets medlemmer:
 
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/) (leder)
 * [Skage Lysgaard](https://www.linkedin.com/in/skage-lysgaard-9044a3175/) (nestleder)
+* [Arne Natskår](https://www.linkedin.com/in/arne-natskår)
+* [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen)
+* [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/)
+* [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/)
+* [Håkon Sørensen]
 
 
 Tidligere medlemmer:
@@ -25,7 +30,6 @@ Tidligere medlemmer:
 * [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
 * [Jacob Hagan](https://www.linkedin.com/in/jacob-hagan-2817a3140/)
 * [Maren Hestad Aleksandersen](https://www.linkedin.com/in/maren-hestad-aleksandersen-900521182/)
-* [Arne Natskår](https://www.linkedin.com/in/arne-natskår)
 * [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
 * [Erik Vetle Larsen](http://linkedin.com/in/erikvetlelarsen/)
 * [Kenneth Fossen](http://linkedin.com/in/kenneth-fossen/)
