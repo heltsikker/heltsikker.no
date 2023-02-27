@@ -19,7 +19,7 @@ Styrets medlemmer:
 * [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen)
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/)
-* [Håkon Sørensen]
+* Håkon Sørensen
 
 
 Tidligere medlemmer:
