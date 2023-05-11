@@ -3,17 +3,17 @@ layout: page
 title: Kontakt oss
 ---
 
-HeltSikker gjør sitt beste for å svare på forespørsler over mail under arbeidstid/skoletid. Dersom det haster råder vi å kontakte over instagram.
+**Du kan nå oss over mail**
 
-## Mail
+Vi aksepterer alt fra tilbakemeldinger, forespørsler og kontakt for samarbeid: <styret@heltsikker.no> 
+HeltSikker styre svarer så fort som det lar seg gjøre under arbeidstid/skoletid. Dersom det haster råder vi å kontakte over instagram.
 
-Vi aksepterer både tilbakemeldinger, forespørsler og kontakt for samarbeid. HeltSikker styre svarer så fort som det lar seg:
-HeltSikker
-
-## Andre kanaler
+**Andre kanaler**
 
 Du kan også finne oss på sosiale medier
 
-Facebook
-Instagram
-Discord
+[Facebook](https://www.facebook.com/groups/heltsikker/)
+
+[Instagram](https://www.instagram.com/heltsikker_bergen/?hl=en)
+
+[Discord](https://discord.gg/23U3RNQU)
