@@ -8,6 +8,7 @@ Helt Sikker er en studentorganisasjon ved Universitetet i Bergen. Vår målsetni
 Helt Sikker ble originalt stiftet av studenter som tilhørte det første kullet av UiBs bachelorprogram i datasikkerhet. Et av våre mål er å komplementere UiBs mer teoretiske tilnærming til sikkerhet ved å arrangere workshops, foredrag, CTF-er, konkurranser og mer. 
 
 Du kan finne oss på
+
 [Facebook](https://www.facebook.com/groups/heltsikker)
 [Instagram](https://www.instagram.com/heltsikker_bergen/)
 [LinkedIn](https://www.linkedin.com/company/helt-sikker/?viewAsMember=true)
