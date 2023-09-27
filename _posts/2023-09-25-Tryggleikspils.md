@@ -1,23 +1,20 @@
 ---
-title: "Capture The Flag!"
-date: "2023-09-06"
+title: "Tryggleikspils"
+date: "2023-09-27"
 categories: 
   - "ukategorisert"
 ---
 
 
 <br />
-Helt Sikker inviterer til nybegynner CTF!
+Helt Sikker inviterer til Tryggleikspils!
 <br />
 <br />
-Dato: onsdag 6.september
+Dato: onsdag 27.september
 
-Tidspunkt: kl.1700-20:00 
+Tidspunkt: kl.19:00-
 
-Sted: aktivt rom , høytek, Thormøhlens Gate 55, 5006 Bergen
+Sted: kvarteret , Olav Kyrres gate 49, 5015 Bergen
 
 <br /> 
- bli med HeltSikker på semesterets Nybegynner CTF! Få en innføring i hvordan å gjøre CTF og bli med i et artig race for premier
-<br />
-Du trenger ikke være verdensmester for å være med. Og du må ikke være nybegynner heller! 
-Gratis Pizza til alle deltagere!
+ HeltSikker inviterer med på tryggleikspils siste onsdag denne måneden! Onsdag 27.september møtes vi ved Kvarteret for noen pils og gode samtaler om sikkerhet!
