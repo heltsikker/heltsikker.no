@@ -18,10 +18,22 @@ Styret kan nås på epost: <styret@heltsikker.no>
 
 
 Styrets medlemmer:
-<div class="img-with-text">
-    <img src="/public/Ukjent_bilde1.png" style="width: 12em;display:inline;margin-bottom: 0;margin-right: 12em;" alt="sometext" />
-    <p>.. </p>
-</div>
+<body>
+    <div class = "container">
+    <figure>
+        <img src="/public/Ukjent_bilde1.png" style="width: 12em;display:inline;margin-bottom: 0;margin-right: 12em;" alt="sometext" />
+        <figcaption>
+            Navn
+        </figcaption>
+    </figure>
+    <figure>
+         <img src="/public/Ukjent_bilde1.png" style="width: 12em;display:inline;margin-bottom: 0;margin-right: 12em;" alt="sometext" />
+        <figcaption>
+            Navn.
+        </figcaption> 
+    </figure>
+    </div>
+</body>
 
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder & PR-ansvarlig)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/) (nestleder & økonomiansvarlig)
