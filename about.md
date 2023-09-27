@@ -18,6 +18,7 @@ Styret kan nås på epost: <styret@heltsikker.no>
 
 
 Styrets medlemmer:
+<br>
 <img src="/public/Ukjent_bilde1.png" style="width: 2em;display:inline;margin-bottom: 0;margin-right: 2em;">
 <h4>Navn</h4>
 
