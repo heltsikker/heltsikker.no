@@ -20,13 +20,13 @@ Styrets medlemmer:
 
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder & PR-ansvarlig)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/) (nestleder & økonomiansvarlig)
-* [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen) (styremedlem)
+* [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen) (our CTF master)
 * [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (styremedlem)
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/) (styremedlem)
-* [Hadi Alkadiri](https://www.linkedin.com/in/hadi-alkadiri/) (styremedlem)
-* [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/) (styremedlem)
+* [Hadi Alkadiri](https://www.linkedin.com/in/hadi-alkadiri/) (CTF-ansvarlig)
+* [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/) (WEB-ansvarlig)
 * [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (styremedlem)
-* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (styremedlem)
+* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (CTF-ansvarlig)
 
 Tidligere medlemmer:
 
