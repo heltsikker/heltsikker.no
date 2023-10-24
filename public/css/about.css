@@ -1,0 +1,38 @@
+.sosiale_medier {
+    text-decoration: none;
+    color: blue; /* Set the default link color */
+}
+
+.sosiale_medier a:visited {
+    color: blue; /* Set the visited link color */
+}
+
+
+.sosiale_medier li a:hover {
+    color: red; /* Set the link color on hover */
+}
+
+
+.custom-list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.custom-list li {
+    margin-bottom: 5px; /* Adjust this value to control the gap between list items */
+}
+
+
+.custom-list li a {
+    text-decoration: none;
+    color: blue; /* Set the default link color */
+}
+
+.custom-list li a:visited {
+    color: blue; /* Set the visited link color */
+}
+
+.custom-list li a:hover {
+    color: red; /* Set the link color on hover */
+}
