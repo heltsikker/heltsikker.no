@@ -1,0 +1,18 @@
+---
+title: "Julekalender 2023 - Luke 1"
+date: "2023-12-03"
+categories: 
+  - "ukategorisert"
+author: "Noel Herrera"
+---
+
+
+
+![Luke 1 bilde](/public/julekalender/luke1.png)
+
+The Christmas Intelligence Agency (CIA) has intercepted a perplexing signal emanating from the North Pole. The [Signal](/public/julekalender/signal.wav) is in the form of a mysterious wav file, and its origin and purpose remain unknown. The CIA, in a state of urgency, is seeking your expertise to unravel the enigma behind this signal. 
+As you delve into the waveform, the agency hopes you can shed light on the meaning and significance of this cryptic message.
+
+
+
+Please submit your answer [here.](https://forms.gle/G6RPPZQLew4YHCVA9)
