@@ -41,6 +41,7 @@ Sølv-stickers ligger i samme skap, men i en låst boks merket "SØLV". <br>
 
 Gull-stickers ligger i samme skap, men i en låst boks merket "GULL". <br>
 
+
 In the heart of the bustling university campus, a student organization known as "Helt Sikker" was dedicated to the world of computer security. 
 They were renowned for crafting Capture The Flag(CTF) challenges to assess and enhance the skills of budding cybersecurity enthusiasts.
 However, a sudden twist of fate rocked their close-knit community.
