@@ -17,15 +17,18 @@ Først, litt regler:
 <div style="clear:both;">
 <h2><img src="/public/purple.png" style="width: 1em;display:inline;margin-bottom: 0;margin-right: 0.5em;">Lilla - Nybegynner</h2>
 
-# The Enigmatic Pursuit of the Purple Sticker
 
 In the depths of Cyberspace, a mysterious quest unfurled for the revered purple sticker. Alice, a skilled hacker, felt drawn to the challenge.
 
+
 Hints were scattered across digital platforms, with heltSikker's Instagram post holding two digits of the enigmatic code, while the remaining pair lurked within a post on LinkedIn.
+
 
 Piece by piece, Alice unraveled the puzzle, deciphering the clues until finally, the lock yielded, revealing the coveted purple sticker. With this triumph, Alice's cyber journey ignited, fueled by the thrill of the hunt and the promise of more challenges ahead.
 
+
 <h2><img src="/public/silver.png" style="width: 1em;display:inline;margin-bottom: 0;margin-right: 0.5em;">Sølv - Next level</h2>
+
 
 Sølv-stickers ligger i samme skap, men i en låst boks merket "SØLV". <br>
 
@@ -34,6 +37,7 @@ Sølv-stickers ligger i samme skap, men i en låst boks merket "SØLV". <br>
 
 
 <h2><img src="/public/gold.png" style="width: 1em;display:inline;margin-bottom: 0;margin-right: 0.5em;">Gull - Ekspert</h2>
+
 
 Gull-stickers ligger i samme skap, men i en låst boks merket "GULL". <br>
 
