@@ -41,17 +41,23 @@ In the heart of the bustling university campus, a student organization known as 
 They were renowned for crafting Capture The Flag(CTF) challenges to assess and enhance the skills of budding cybersecurity enthusiasts.
 However, a sudden twist of fate rocked their close-knit community.
 
+
 One of Helt Sikker's brightest and most promising members had turned rogue. This student, operating under the alias "Byte Bandit," possessed exceptional talents in
 encryption and decryption. In a daring move, Byte Bandit encrypted the contents of a crucial and confidential file belonging to the organization before disappearing into the digital abyss.
+
 
 In a race against time to retrieve the vital information, Helt Sikker managed to secure a Wireshark capture of the compromised network. This became their sole chance to
 recover the pilfered data. But there was a daunting obstacle - Byte Bandit's encryption method was so intricate and convoluted that even the skilled members of Helt Sikker were confounded. They realized they required an expert to decipher the encrypted data and aid in retrieving the stolen information.
 
+
 Driven by desperation and resolve, they reached out to you, a renowned authority in computer security and encryption. Your reputation preceded you, instilling hope that your expertise could break the impasse. With a sense of urgency, they forwarded you a message intercepted from Byte Bandit: "Heltsikker er ikke helt sikker," a cryptic phrase hinting at both a challenge and a taunt.
+
 
 Now, the fate of Helt Sikker and the invaluable information they sought to safeguard rested in your capable hands. The encrypted data held the key to deciphering Byte
 Bandit's motives and revealing the flag symbolizing their triumph. Could you unravel the intricate encryption, unveil the concealed message, and restore Helt Sikker's confidence in their security? Time was of the essence, and the organization's reputation teetered on the brink. It was incumbent upon you to undertake this formidable challenge and demonstrate your mastery in the realm of computer security.
 
+
 We need to you decipher this <a href="/public/network_capture_gold_sticker.pcapng">data</a>!
+
 
 </div>
