@@ -18,6 +18,11 @@ Styret kan nås på epost: <styret@heltsikker.no>
 
 
 Styrets medlemmer:
+
+```console
+24? There's just something about that number! FQARD{3YR_w0sp_Ep33lq}
+```
+
 <!--
     <div class = "container">
     <figure>
