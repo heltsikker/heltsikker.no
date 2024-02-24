@@ -20,7 +20,7 @@ Styret kan nås på epost: <styret@heltsikker.no>
 Styrets medlemmer:
 
 <!--
-24? There's just something about that number! FQARD{3YR_w0sp_Ep33lq}
+esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 -->
 
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder & PR-ansvarlig)
