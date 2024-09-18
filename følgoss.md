@@ -1,7 +1,9 @@
 ---
 layout: page 
-title: Våre Medier
+title: Følg oss
 ---
+
+Dere kan kontakte oss via:
 
 [Discord](https://discord.gg/PmRqUtWb9k)
 
