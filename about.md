@@ -12,7 +12,7 @@ Du kan finne oss på
 [Facebook](https://www.facebook.com/groups/heltsikker)
 [Instagram](https://www.instagram.com/heltsikker_bergen/)
 [LinkedIn](https://www.linkedin.com/company/helt-sikker/?viewAsMember=true)
-[Discord](https://discord.gg/3TDYtQw68)
+[Discord](https://discord.gg/Ch4RyzwJBs)
 
 Styret kan nås på epost: <styret@heltsikker.no>
 
