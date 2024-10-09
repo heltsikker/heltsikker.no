@@ -1,6 +1,6 @@
 ---
 title: "Foredrag med Cecilie Wian"
-date: "2024-10-10"
+date: "2024-10-09"
 categories: 
   - "ukategorisert"
 ---
