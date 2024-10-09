@@ -1,12 +1,10 @@
 ---
-title: "Nybegynner CTF 2024"
+title: "Foredrag med Cecilie Wian"
 date: "2024-10-10"
 categories: 
   - "ukategorisert"
 ---
 ![abuseability](/public/abuseability.png)
-
-Foredrag med Cecilie Wian <br />
 
 Bli med på en kveld med Cecilie Wian fra bouvet!<br />
 
