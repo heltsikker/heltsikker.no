@@ -4,6 +4,7 @@ date: "2024-10-10"
 categories: 
   - "ukategorisert"
 ---
+
 ![abuseability](/public/abuseability.png)
 
 Bli med på en kveld med Cecilie Wian fra bouvet!<br />
