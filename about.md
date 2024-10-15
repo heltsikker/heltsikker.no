@@ -23,14 +23,22 @@ Styrets medlemmer:
 esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 -->
 
-* [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder, bedrift & PR-ansvarlig)
-* [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (styremedlem)
-* [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/) (WEB-ansvarlig)
-* [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (styremedlem)
-* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (CTF-ansvarlig)
+* [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder)
+* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (nestleder)
+* Sage A Brandtzæg (Økonomiansvarlig)
+* [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (CTF-ansvarlig)
+* [Trym Jakobsen](https://www.linkedin.com/in/trym-jakobsen/) (CTF-ansvarlig)
+* [Ulrik Snilsberg](https://www.linkedin.com/in/ulrik-snilsberg-99a64b242/) (WEB-ansvarlig)
+* [Elena Bianca Balaban](https://www.linkedin.com/in/elena-bianca-balaban-4767841b2/) (PR-ansvarlig)
+* [Silje A Midtgard](https://www.linkedin.com/in/silje-midtg%C3%A5rd-888855212/) (PR-assistent)
+* Christian Gapjern (Styremedlem)
+* [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
+* Vegard Steinheim (Styremedlem)
+* [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (Styremedlem)
 
 Tidligere medlemmer:
 
+* [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/)
 * [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/)
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/)
