@@ -25,7 +25,7 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder)
 * [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (nestleder)
-* Sage A Brandtzæg (Økonomiansvarlig)
+* [Sage A Brandtzæg](https://www.linkedin.com/in/sagebrandtzaeg/) (Økonomiansvarlig)
 * [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (CTF-ansvarlig)
 * [Trym Jakobsen](https://www.linkedin.com/in/trym-jakobsen/) (CTF-ansvarlig)
 * [Ulrik Snilsberg](https://www.linkedin.com/in/ulrik-snilsberg-99a64b242/) (WEB-ansvarlig)
