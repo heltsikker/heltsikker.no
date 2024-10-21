@@ -33,7 +33,7 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 * [Silje A Midtgard](https://www.linkedin.com/in/silje-midtg%C3%A5rd-888855212/) (PR-assistent)
 * Christian Gapjern (Styremedlem)
 * [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
-* Vegard Steinheim (Styremedlem)
+* [Vegard Steinheim](https://www.linkedin.com/in/vegard-steinheim-057a17333/) (Styremedlem)
 * [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (Styremedlem)
 
 Tidligere medlemmer:
