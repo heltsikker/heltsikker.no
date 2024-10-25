@@ -15,6 +15,6 @@ Tid: 8. November klokken 17:00-21:00
 
 Sted: Speilsalen, Det Akademiske Kvarter <br />
 
-Det blir så klart snacks til CTF-en, og tilgang på bar ;) 
+Det blir såklart snacks til CTF-en, og tilgang på bar ;) 
 
 [Meld deg på her!](https://docs.google.com/forms/d/e/1FAIpQLSezkrdXtrHCmBmlShtZZ6ABnIg9ZKxgiqvbj1Ak2YDYSgCfOw/viewform)
