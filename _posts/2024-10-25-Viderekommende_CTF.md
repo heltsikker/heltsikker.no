@@ -1,6 +1,6 @@
 ---
 title: "Viderekommende CTF"
-date: "2024-25-10"
+date: "2024-10-25"
 categories: 
   - "ukategorisert"
 ---
