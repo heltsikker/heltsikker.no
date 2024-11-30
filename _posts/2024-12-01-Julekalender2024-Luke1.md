@@ -5,7 +5,7 @@ categories:
   - "ukategorisert"
 ---
 
-![Luke 1](/public/santa-in-the-streets.png)
+![Luke 1](/public/santa-in-the-street.jpg)
 
 "Last year I got some coal in my sock for Christmas, COAL!!! 
 Well, if I am getting coal then everyone will get coal! 
