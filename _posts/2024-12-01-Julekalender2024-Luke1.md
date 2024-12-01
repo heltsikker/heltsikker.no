@@ -1,5 +1,5 @@
 ---
-title: "Luke 1: Julekalender 2024"
+title: "Julekalender 2024: Luke 1"
 date: "2024-12-01"
 categories: 
   - "ukategorisert"
