@@ -16,5 +16,3 @@ recently released this photo of him. Can you find his location for me?
 I will make sure it’s worth your while."
 
 Flag = HSCTF{xxxxx_xxxx_xxxxxx}
-
-Send inn the correct flag to hakon@heltsikker.no and join the lottery droll to win a prize!
