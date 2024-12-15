@@ -11,5 +11,3 @@ Solution week 1:
 HSCTF{north_pole_alaska}"
 
 [Santas_bag.zip](/public/julekalender/Santas_bag.zip)
-
-Send inn the correct flag to hakon@heltsikker.no and join the lottery droll to win a prize!
