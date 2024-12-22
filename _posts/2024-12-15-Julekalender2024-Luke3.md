@@ -9,5 +9,3 @@ We found the access point to the database that stores everyone's gifts, but it i
 
 Message 1: 3a342322220d05040a414868565f471e
 Message 2: 1f0212041d290b090a5a4243585646
-
-Send your answers to hakon@heltsikker.no
