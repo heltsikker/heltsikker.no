@@ -11,5 +11,3 @@ The access point to the db is a simple interface that lets us query a name and i
 Have both files in same dir, and launch by running: java -jar SantasDB-1.0-SNAPSHOT.jar
 
 [SantasDB-1.0-SNAPSHOT.zip](/public/julekalender/SantasDB-1.0-SNAPSHOT.zip)
-
-Send your answers to hakon@heltsikker.no
