@@ -34,24 +34,24 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 * Christian Gapjern (Styremedlem)
 * [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
 * [Vegard Steinheim](https://www.linkedin.com/in/vegard-steinheim-057a17333/) (Styremedlem)
-* [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (Styremedlem)
 
 Tidligere medlemmer:
 
 * [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/)
 * [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen)
+* [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (Styremedlem)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/)
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/)
 * [Hadi Alkadiri](https://www.linkedin.com/in/hadi-alkadiri/)
 * [Skage Lysgaard](https://www.linkedin.com/in/skage-lysgaard-9044a3175/)
 * [Arne Natskår](https://www.linkedin.com/in/arne-natskår)
 * [Joakim Algrøy](https://www.linkedin.com/in/joakim-algroy/)
-* [Alexander Bergenholtz](http://uwu.dk/about/)
+* Alexander Bergenholtz
 * [Mathias Iversen](https://www.linkedin.com/in/mathiasni/)
-* [Vegard Arneberg](https://www.linkedin.com/in/vegard-mathisen-arneberg/)
+* Vegard Arneberg
 * [Jacob Hagan](https://www.linkedin.com/in/jacob-hagan-2817a3140/)
 * [Maren Hestad Aleksandersen](https://www.linkedin.com/in/maren-hestad-aleksandersen-900521182/)
-* [Martin Tverråen](http://linkedin.com/in/martin-tverr%C3%A5en/)
+* Martin Tverråen
 * [Erik Vetle Larsen](http://linkedin.com/in/erikvetlelarsen/)
 * [Kenneth Fossen](http://linkedin.com/in/kenneth-fossen/)
 * [Johan Schultz Åsbakk](http://linkedin.com/in/johan-schultz-%C3%A5sbakk-685468169/)
