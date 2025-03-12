@@ -1,4 +1,9 @@
-
+---
+title: "Sikkerhetsdagen 2025"
+date: "2025-03-12"
+categories: 
+  - "ukategorisert"
+---
 ![Sikkerhetsdagen (1080 x 1350 piksler) (1)](https://github.com/user-attachments/assets/f0cf24de-a5e0-4de3-9b5a-6f99177b1dba)
 
 
