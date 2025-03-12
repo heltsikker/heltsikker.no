@@ -1,6 +1,6 @@
 ![Sikkerhetsdagen (1080 x 1350 piksler) (1)](https://github.com/user-attachments/assets/f0cf24de-a5e0-4de3-9b5a-6f99177b1dba)
 
-
+ 
 Velkommen til Sikkerhetsdagen 2025!
 
 Har du som student lurt på hvorfor det ikke finnes en sikkerhetsdag som er laget av og for studenter? Du trenger ikke lete lenger! HeltSikker ønsker å invitere DEG til Bergens første Sikkerhetsdag for studenter i Bergen!
