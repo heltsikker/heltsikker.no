@@ -8,7 +8,7 @@ categories:
 
 
  
-Velkommen til Sikkerhetsdagen 2025!
+Velkommen til Sikkerhetsdagen 2025! 
 
 Har du som student lurt på hvorfor det ikke finnes en sikkerhetsdag som er laget av og for studenter? Du trenger ikke lete lenger! HeltSikker ønsker å invitere DEG til Bergens første Sikkerhetsdag for studenter i Bergen!
 
