@@ -20,4 +20,4 @@ Følg med hvilke bedrifter som blir med! Vi avslører dem litt etter hvert
 Klokken 16:00 starter også en Capture-the-Flag konkurranse! Capture-the-flag, eller CTF, er en konkurranse hvor man løser ulike oppgaver innenfor sikkerhet! Løs ulike oppgaver, tjen poeng, og vinn premier!
 Aldri deltatt på CTF før? Ikke tenk på det! Vi har enkle oppgaver også, og bistår med hjelp og spørsmål dersom du står fast!
 
-Meld deg på for en matbit under arrangementet her: https://docs.google.com/forms/d/1yF8IvPgaj3wwInI5X8t8IWIj_-StKLRUTkY4EHuvNYQ/edit?usp=drivesdk
+Meld deg på for en matbit under arrangementet [her](https://forms.gle/yz8ioZvFm5z3Gwzy5)
