@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mnemonic
+title: mnemonic
 ---
 
 mnemonic er stolt sponsor av Helt Sikker, og ser fram til videre samarbeid og mange flotte arrangementer sammen.
