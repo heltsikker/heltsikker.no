@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sikkerhetsdagen
+title: Sikkerhetsdagen 2025
 ---
 
 HeltSikker er stlte av å presentere Sikkerhetsdagen 2025! Ta med deg vennene dine til Det Akademiske Kvarteret i Bergen, og hør presentasjoner om ulike tema innen sikkerhet, bli med på workshop, og delta på Capture-the-Flag konkurranse for premier!
