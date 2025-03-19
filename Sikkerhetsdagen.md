@@ -19,7 +19,7 @@ Meld deg på [her](https://forms.gle/yz8ioZvFm5z3Gwzy5) for å sikre deg en matb
 I Bergen finnes det per i dag ingen designert dag for **IT-sikkerhet for studenter**. Vi i HeltSikker ønsker å fylle dette tomrommet, og gi studenter en sjanse til å oppleve og se IT-miljøet som finnes i Norge i dag. Hvordan ser case-oppgaven til IT-sikkerhet ut? Hva er viktig i dag? IT-sikkerhet er et felt som er i stadig rask endring, og derfor ser vi for oss å fortsette med dette arrangementet årlig for studentmiljøet i Bergen. Kom og hør om tema fra representanter fra industrien. Dette blir anerledes enn slik det foregår på forelesning!
 
 
-## Samarbeidspartnere
+# Samarbeidspartnere
 **Følg med for oppdateringer!**
 
 ### Teaser #1
