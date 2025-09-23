@@ -5,7 +5,7 @@ categories:
   - "ukategorisert"
 ---
 
-![NybegynnerCTF](/public/NybegynnerCTFH25.png)
+![NybegynnerCTF](/public/NybegynnerCTFH25.jpg)
 
 
 HeltSikker starter Sikkerhetsmåneden med en Nybegynner CTF 03.oktober!
