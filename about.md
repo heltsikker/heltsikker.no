@@ -24,22 +24,23 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 -->
 
 * [Othilie Rugaard Langholm](https://www.linkedin.com/in/othilie-rugaard-langholm-0523a9230/) (leder)
-* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/) (nestleder)
+* [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (nestleder)
 * [Sage A Brandtzæg](https://www.linkedin.com/in/sagebrandtzaeg/) (Økonomiansvarlig)
-* [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (CTF-ansvarlig)
-* [Trym Jakobsen](https://www.linkedin.com/in/trym-jakobsen/) (CTF-ansvarlig)
-* [Ulrik Snilsberg](https://www.linkedin.com/in/ulrik-snilsberg-99a64b242/) (WEB-ansvarlig)
-* [Elena Bianca Balaban](https://www.linkedin.com/in/elena-bianca-balaban-4767841b2/) (PR-ansvarlig)
-* [Silje A Midtgard](https://www.linkedin.com/in/silje-midtg%C3%A5rd-888855212/) (PR-assistent)
-* Christian Gapjern (Styremedlem)
+* [Kim Ystebø](https://www.linkedin.com/in/kim-ysteb%C3%B8-81b53b1b5/?originalSubdomain=no) (CTF-ansvarlig)
+* Christian Gapjern (CTF-ansvarlig)
 * [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
-* [Vegard Steinheim](https://www.linkedin.com/in/vegard-steinheim-057a17333/) (Styremedlem)
+
 
 Tidligere medlemmer:
 
+* [Marius Thomassen](https://www.linkedin.com/in/marius-thomassen-0919431a5/)
+* [Trym Jakobsen](https://www.linkedin.com/in/trym-jakobsen/)
+* [Ulrik Snilsberg](https://www.linkedin.com/in/ulrik-snilsberg-99a64b242/)
+* [Elena Bianca Balaban](https://www.linkedin.com/in/elena-bianca-balaban-4767841b2/)
+* [Vegard Steinheim](https://www.linkedin.com/in/vegard-steinheim-057a17333/)
+* [Silje A Midtgard](https://www.linkedin.com/in/silje-midtg%C3%A5rd-888855212/)
 * [Noel Santillana Herrera](https://www.linkedin.com/in/noel-santillana-herrera-31a05699/)
 * [Tård Knudsen](https://www.linkedin.com/in/t%C3%A5rd-knudsen)
-* [Christoffer Janson](https://www.linkedin.com/in/christoffer-janson-a82684270/) (Styremedlem)
 * [Steffen Andre Pettersen](https://www.linkedin.com/in/steffen-andre-pettersen-44283424b/)
 * [Nhac Joakim Nguyen](https://www.linkedin.com/in/nhac/)
 * [Hadi Alkadiri](https://www.linkedin.com/in/hadi-alkadiri/)
