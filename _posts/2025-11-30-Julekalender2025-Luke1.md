@@ -1,6 +1,6 @@
 ---
 title: "Julekalender 2025: Luke 1"
-date: "2025-11-30"
+date: "2025-11-30 18:00:00"
 categories:
   - "ukategorisert"
 ---
