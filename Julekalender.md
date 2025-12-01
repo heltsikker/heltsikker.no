@@ -26,3 +26,5 @@ Bruk Google Street View (historiske bilder fra september 2010) og finn parkering
 Inspiser det "røde lille pepperkakehuset" du finner der. Hvilket ord (kodenavn) står skrevet på den?
 
 Lever flagget i formatet: **HSCTF{ordet}**
+
+![Nissen foran Høyteknologisenteret i Bergen](/public/julekalender/Kalender25-Luke1.png)
