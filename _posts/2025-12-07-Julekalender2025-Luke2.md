@@ -1,6 +1,6 @@
 ---
 title: "Julekalender 2025: Luke 2"
-date: "2025-12-07 18:00:00"
+date: "2025-12-07"
 categories:
   - "ukategorisert"
 ---
