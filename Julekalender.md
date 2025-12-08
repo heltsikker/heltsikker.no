@@ -30,6 +30,7 @@ Kan du hjelpe foreleseren med å avsløre hva Julenissen stjal … før hele Hø
 Analyser nettverkstrafikken i pcap-filen og finn de krypterte dataene som ble sendt til Nordpolen. Dekrypter innholdet og finn ut hva som ble stjålet.
 
 Lever flagget i formatet: **HSCTF{flagget}** Til kim@heltsikker.no eller christian@heltsikker.no
+
 ----------
 
 ## Oppgave 1: Den glemte linjen (OSINT/NYBEGYNNER)
