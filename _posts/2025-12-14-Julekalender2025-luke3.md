@@ -1,5 +1,5 @@
 ---
-title: "Julekalender 2025: Luke 2"
+title: "Julekalender 2025: Luke 3"
 date: "2025-12-14"
 categories:
   - "ukategorisert"
@@ -23,7 +23,7 @@ http://178.18.253.120:8002 <br/>
 username: admin <br/>
 password: admin <br/>
 
-## OBS!
+### OBS!
 Vi ber deg om å ikke endre på databasen da dette kan påvirke oppgaven for andre.
 
 ### Ledetråd
