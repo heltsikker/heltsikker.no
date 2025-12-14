@@ -4,7 +4,7 @@ date: "2025-12-14"
 categories:
   - "ukategorisert"
 ---
-## Oppgave 3: Datatyveri fra Nordpolen (Forensics)
+## Oppgave 3: Misbruk av nettside (SQL)
 
 ### Beskrivelse
 
