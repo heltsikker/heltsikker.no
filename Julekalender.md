@@ -26,7 +26,7 @@ Vi ber deg om å ikke endre på databasen da dette kan påvirke oppgaven for and
 
 ### Ledetråd
 
-*Første ledetraå kommer onsdag 17.12*
+_Hvor mye henter vi ut fra databasen? Funker det bedre om du finner navn og type på dem?_
 
 Lever flagget i formatet: **HSCTF{flagget}** Til kim@heltsikker.no eller christian@heltsikker.no
 
