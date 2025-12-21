@@ -3,12 +3,6 @@ layout: page
 title: Julekalender 2025
 ---
 
----
-title: "Julekalender 2025: Luke 4"
-date: "2025-12-21"
-categories:
-  - "ukategorisert"
----
 ## Oppgave 4: Santa's Secret Vault
 
 ### Beskrivelse
