@@ -1,6 +1,6 @@
 ---
 title: "Tusen takk for deltagelse på Julekalenderen!"
-date: "2025-31-22"
+date: "2025-12-31"
 categories: 
   - "ukategorisert"
 ---
