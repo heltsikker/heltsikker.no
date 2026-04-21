@@ -32,7 +32,7 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 * [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
 * [Evy Jasmine Erlandsen](https://www.linkedin.com/in/evy-jasmine-erlandsen-2147b9128/) (Styremedlem)
 * [Mathilde Karlstad](https://www.linkedin.com/in/mathilde-karlstad-118675349/) (Styremedlem)
-* Tor Svendsen (Styremedlem)
+* [Tor Svendsen](https://www.linkedin.com/in/tor-haug-svendsen-834001303/) (Styremedlem)
 
 
 Tidligere medlemmer:
