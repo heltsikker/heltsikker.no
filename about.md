@@ -27,7 +27,7 @@ esaB46! SFNDVEZ7M0FUX3kwdXJfR3IzM25zfQ==
 * [Håkon Sørensen](https://www.linkedin.com/in/h%C3%A5kon-s%C3%B8rensen-6ba48185/) (nestleder)
 * [Sage A Brandtzæg](https://www.linkedin.com/in/sagebrandtzaeg/) (Økonomiansvarlig)
 * [Kim Ystebø](https://www.linkedin.com/in/kim-ysteb%C3%B8-81b53b1b5/?originalSubdomain=no) (CTF-ansvarlig)
-* [Christina Gapjern](https://www.linkedin.com/in/christian-gaptjern-a2a146334/) (CTF-ansvarlig)
+* Christina Gapjern (CTF-ansvarlig)
 * [Lukas Borge](https://www.linkedin.com/in/lukas-justin-borge-3a2703378/) (Styreedlem)
 * [Torbjørn Karlsen](https://www.linkedin.com/in/torbj%C3%B8rn-karlsen-974a9478/) (Styremeldem)
 * [Evy Jasmine Erlandsen](https://www.linkedin.com/in/evy-jasmine-erlandsen-2147b9128/) (Styremedlem)
