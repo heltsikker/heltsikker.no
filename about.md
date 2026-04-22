@@ -3,9 +3,11 @@ layout: page
 title: Om oss
 ---
 
-Helt Sikker er en studentorganisasjon ved Universitetet i Bergen. Vår målsetning er å tilby studenter en arena hvor man kan lære mer om informasjonssikkerhet, samtidig som vi bidrar til å bygge et miljø for sikkerhetsinteresserte studenter i Bergen.
+![HeltSikker](/public/HeltSikkerKurs.png)
 
-Helt Sikker ble originalt stiftet av studenter som tilhørte det første kullet av UiBs bachelorprogram i datasikkerhet. Et av våre mål er å komplementere UiBs mer teoretiske tilnærming til sikkerhet ved å arrangere workshops, foredrag, CTF-er, konkurranser og mer. 
+Helt Sikker er en studentorganisasjon for alle studentene i Bergen. Vår målsetning er å tilby studenter en arena hvor man kan lære mer om informasjonssikkerhet, samtidig som vi bidrar til å bygge et miljø for sikkerhetsinteresserte studenter i hele byen.
+
+Helt Sikker ble originalt stiftet av studenter som tilhørte det første kullet av UiBs bachelorprogram i datasikkerhet. Et av våre mål var å komplementere UiBs mer teoretiske tilnærming til sikkerhet ved å arrangere workshops, foredrag, CTF-er, konkurranser og mer. I dag er vi for alle studentene i hele Bergen omegn. Vi tilbyr både praktiske og teoretiske arrangementer, og arrangementer rettet mot arbeidslivet. For bedrifter tilbyr vi CTF-konkurranser for å lære opp staben innen sikkerhet, og pentester av enkelte plattformer.
 
 Du kan finne oss på
 
