@@ -11,9 +11,13 @@ categories:
 ### DIGITALT INFOMØTE 
 Møtelenke sendes til påmeldte noen dager før.
 
-Onsdag 15. april, kl. 16: https://forms.gle/fFaoS3fUy8QHgAku6 </br>
-Mandag 20. april, kl. 13: https://forms.gle/wjSeiYjxsxYHu1jn7 </br>
-Torsdag 23.april, kl.18: https://forms.gle/XQ7CCiotitCt6E547 </br>
+Onsdag 15. april, kl. 16: https://forms.gle/fFaoS3fUy8QHgAku6
+
+
+Mandag 20. april, kl. 13: https://forms.gle/wjSeiYjxsxYHu1jn7 
+
+
+Torsdag 23.april, kl.18: https://forms.gle/XQ7CCiotitCt6E547 
 
 ### OM AKER SCHOLARSHIP 
 Master- eller doktorgrad ved et verdensledende universitet – uten studielån?
