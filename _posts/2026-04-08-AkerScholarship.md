@@ -41,4 +41,4 @@ Søknadsfristen for å søke stipendet er **12. september 2026** for studiestart
  
 For mer info: www.akerscholarship.no eller kontakt@akerscholarship.no
 
-![AkerScholarship](/public/AkerSholarship2026.jpg)
+![AkerScholarship](/public/AkerScholarship2026.jpg)
