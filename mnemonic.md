@@ -17,4 +17,9 @@ Det siste tiåret har vi vært helt i toppen av kåringen av Norges og Europas b
 
 mnemonic er alltid på utkikk etter kloke hoder med en lidenskap for informasjonssikkerhet. Ledige stillinger vil på sikt bli publisert her, men vil alltid være oppdatert på våre nettsider: [https://www.mnemonic.io/no/careers/open-positions/](https://www.mnemonic.io/no/careers/open-positions/)
 
-Vi tar alltid i mot åpne søknader. Ta gjerne kontakt på <rekruttering-web@mnemonic.no>
+**Vi tar alltid i mot åpne søknader.** Ta gjerne kontakt på <rekruttering-web@mnemonic.no>
+
+
+
+
+![mnemonic](/public/mnemonic.png)
