@@ -11,20 +11,20 @@ Helt Sikker ble originalt stiftet av studenter som tilhørte det første kullet 
 
 Du kan finne oss på
 
-[<img src="/public/linkedin.png" height="55">](https://www.linkedin.com/company/helt-sikker/?viewAsMember=true) [<img src="/public/discord.png" height="55">](https://discord.gg/Ch4RyzwJBs) [<img src="/public/instagram.png" height="55">](https://www.instagram.com/heltsikker_bergen/) [<img src="/public/facebook.png" height="55">](https://www.facebook.com/groups/heltsikker)
+ [<img src="/public/instagram.png" height="55">](https://www.instagram.com/heltsikker_bergen/) [<img src="/public/facebook.png" height="55">](https://www.facebook.com/groups/heltsikker)
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://www.instagram.com/heltsikker_bergen/">
-    <img src="/public/instagram.png" height="45">
-  </a>
-  <a href="https://www.facebook.com/groups/heltsikker">
-    <img src="/public/facebook.png" height="45">
-  </a>
   <a href="https://www.linkedin.com/company/helt-sikker/?viewAsMember=true">
     <img src="/public/linkedin.png" height="45">
   </a>
   <a href="https://discord.gg/Ch4RyzwJBs">
     <img src="/public/discord.png" height="45">
+  </a>
+  <a href="https://www.instagram.com/heltsikker_bergen/">
+    <img src="/public/instagram.png" height="45">
+  </a>
+  <a href="https://www.facebook.com/groups/heltsikker">
+    <img src="/public/facebook.png" height="45">
   </a>
 </div>
 
