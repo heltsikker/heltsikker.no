@@ -15,13 +15,13 @@ Tid: 8. Mai klokken 17:00-21:00
 
 Sted: Speilsalen, Det Akademiske Kvarter <br />
 
-Det blir såklart snacks til CTF-en, og tilgang på bar ;) </br>
+Det blir såklart snacks til CTF-en, og tilgang på bar ;) <br />
 
-Utenom vanlige CTF-oppgaver har vi også fått spesiallagde oppgaver fra forelesere og TA i </br>
-▶Computer networks(UiB) </br>
-▶Applied Cryptography(UiB) </br>
-▶AI and Cybersecurity applications(Høyskolen Kristiania) </br>
-som skal hjelpe studenter å øve til eksamen! </br>
+Utenom vanlige CTF-oppgaver har vi også fått spesiallagde oppgaver fra forelesere og TA i <br />
+▶Computer networks(UiB) <br />
+▶Applied Cryptography(UiB) <br />
+▶AI and Cybersecurity applications(Høyskolen Kristiania) <br />
+som skal hjelpe studenter å øve til eksamen! <br />
 
 Kickstart eksamensøvingen med oss! Og ta en pause med litt vanlige CTF-oppgaver ;)
 
