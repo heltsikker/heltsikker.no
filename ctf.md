@@ -75,6 +75,7 @@ HTB er hakket mer avansert enn Over The Wire, så den er gjerne grei å ta fatt 
 Følg også med på om det arrangeres lokale CTF’er nær deg! Vi i Helt Sikker arrangerer jevnlig CTF’er for studentene våre, og det finnes flere andre aktører som også har lokale eller online CTF’er. En av de større i Norge er TGHack, som er en CTF som arrangeres hvert år på datasamlingen The Gathering. <br>
 HeltSikker arrrangerer årlig HordaHACK på HordaLAN ute på Sotra.
 
-Ta gjerne kontakt om noe er feil, eller om du har forslag til andre CTF-er som burde være på lista.
-
 ![HordaHACK](/public/hordahack2024.png)
+
+
+*Ta gjerne kontakt om noe er feil, eller om du har forslag til andre CTF-er som burde være på lista.*
